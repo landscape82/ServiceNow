@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <sys_script>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_label/><action_name/>
+        <action_query>false</action_query>
+        <action_run_at>server</action_run_at>
+        <action_update>false</action_update>
+        <active>true</active><application/>
+        <client_callable>false</client_callable>
+        <collection>u_example_table</collection><condition/>
+        <description/>
+        <name>Update Short Description </name>
+        <onclick/><order>100</order>
+        <priority>100</priority>
+        <read_access_action>false</read_access_action>
+        <script>current.short_description = 'Some subject';</script>
+        <sys_created_by>tim</sys_created_by>
+        <sys_created_on>2012-10-12 20:53:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a8b6ff59718134003057f41b6f30e39e</sys_id>
+        <sys_mod_count>0</sys_mod_count><sys_overrides/>
+        <sys_updated_by>tim</sys_updated_by>
+        <sys_updated_on>2012-10-12 20:53:46</sys_updated_on>
+        <when>before</when>
+    </sys_script>
+</xml>
